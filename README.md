@@ -1,7 +1,12 @@
 # WNM499_Final
 Our sweet team project for wonderful Halmiton
 
+<<<<<<< HEAD
 Here's a new branch
+=======
+Testing a merge
+
+>>>>>>> 87ac35a1a7ff70f71c45b87210cfa723244b2d44
 
 
 ###Sookie Park 
